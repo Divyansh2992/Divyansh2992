@@ -5,7 +5,7 @@
   <section>
     <h2>🔧 Skills & Expertise</h2>
     <ul>
-      <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap</li>
+      <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap,React</li>
       <li><strong>Backend:</strong> Node.js, Express</li>
       <li><strong>Database:</strong> MySQL, MongoDB</li>
       <li><strong>Languages:</strong> Java (DSA), C++, Python</li>
@@ -14,7 +14,7 @@
   <section>
     <h2>🌟 Projects</h2>
     <ul>
-      <li>🌐 <a href="https://github.com/Divyansh2992/Ecommerce-Website" target="_blank">E-Commerce Website</a>: A fully functional online shopping platform with features like product browsing, cart management, and secure checkout.</li>
+      <li>🌐 <a href="https://github.com/Divyansh2992/Ecommerce" target="_blank">E-Commerce Website</a>: A fully functional online shopping platform with features like product browsing, cart management, and secure checkout.</li>
       <li>🌱 <a href="https://divyansh2992.github.io/GreenPulseOK200/about.html" target="_blank">GreenPulse - Sustainability Website</a>: Features tools like carbon footprint calculators and eco-friendly games.</li>
       <li>🎵 <a href="https://github.com/Divyansh2992/WPP-Project" target="_blank">Music Player</a>: A music streaming application built with HTML, CSS, and JavaScript.</li>
       <li>💼 <a href="https://github.com/Divyansh2992/Employee-Management-System" target="_blank">Employee Management System</a>: A menu-driven application to manage employee records using Java.</li>
