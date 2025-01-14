@@ -1,4 +1,4 @@
-👨‍💻 Divyansh Vijay
+<h1>👨‍💻 Divyansh Vijay</h1>
 🚀 Software Engineer | Full-Stack Developer | Problem Solver
 🌍 Passionate about building impactful projects and contributing to open-source
 
@@ -14,4 +14,4 @@ Languages: Java (DSA), C++, Python
 📫 Let’s connect:
 
 Email: Divyanshvijay92@gmail.com
-LinkedIn: www.linkedin.com/in/divyansh-vijay-17187b227
+LinkedIn: Divyansh Vijay
