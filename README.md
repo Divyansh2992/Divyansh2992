@@ -1,16 +1,17 @@
-## Hi there 👋
+👨‍💻 Divyansh Vijay
+🚀 Software Engineer | Full-Stack Developer | Problem Solver
+🌍 Passionate about building impactful projects and contributing to open-source
 
-<!--
-**Divyansh2992/Divyansh2992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Expertise
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: Node.js, Express
+Database: MySQL, MongoDB
+Languages: Java (DSA), C++, Python
+🌟 Projects
+🌱 GreenPulse - Sustainability Website: Features tools like carbon footprint calculators and eco-friendly games.
+🎵 Music Player: A music streaming application built with HTML, CSS, and JavaScript.
+💼 Employee Management System: A menu-driven application to manage employee records using Java.
+📫 Let’s connect:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: Divyanshvijay92@gmail.com
+LinkedIn: www.linkedin.com/in/divyansh-vijay-17187b227
