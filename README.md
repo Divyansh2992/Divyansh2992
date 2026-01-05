@@ -1,30 +1,94 @@
-  <header>
-    <h1>👨‍💻 Divyansh Vijay</h1>
-    <p>🚀 Software Engineer | Full-Stack Developer | Problem Solver</p>
-  </header>
-  <section>
-    <h2>🔧 Skills & Expertise</h2>
-    <ul>
-      <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap,React</li>
-      <li><strong>Backend:</strong> Node.js, Express</li>
-      <li><strong>Database:</strong> MySQL, MongoDB</li>
-      <li><strong>Languages:</strong> Java (DSA), C++, Python</li>
-    </ul>
-  </section>
-  <section>
-    <h2>🌟 Projects</h2>
-    <ul>
-      <li>🌐 <a href="https://github.com/Divyansh2992/Ecommerce" target="_blank">E-Commerce Website</a>: A fully functional online shopping platform with features like product browsing, cart management, and secure checkout.</li>
-       <li>🏡 <a href="https://github.com/Divyansh2992/Wanderlust.git" target="_blank">Wanderlust - Full-Stack Website</a>: An Airbnb-like platform with features such as property listings, user authentication, booking systems, and reviews.</li>
-       <li>🌦️ <a href="https://github.com/Divyansh2992/WeatherSearchBox.git" target="_blank">React Weather Forecast Website</a>: A real-time weather forecasting application using React and OpenWeather API for fetching live data.</li>
-      <li>🌱 <a href="https://divyansh2992.github.io/GreenPulseOK200/about.html" target="_blank">GreenPulse - Sustainability Website</a>: Features tools like carbon footprint calculators and eco-friendly games.</li>
-      <li>📊 <a href="https://divyansh2992.github.io/PaperPlate/" target="_blank">Paper Plate Calculator</a>: A web application to calculate the material and cost required for producing paper plates efficiently.</li>
-      <li>🎵 <a href="https://github.com/Divyansh2992/WPP-Project" target="_blank">Music Player</a>: A music streaming application built with HTML, CSS, and JavaScript.</li>
-      <li>💼 <a href="https://github.com/Divyansh2992/Employee-Management-System" target="_blank">Employee Management System</a>: A menu-driven application to manage employee records using Java.</li>
-    </ul>
-  </section>
-  <footer>
-    <h2>📫 Let’s Connect</h2>
-    <p>Email: <a href="mailto:Divyanshvijay92@gmail.com">Divyanshvijay92@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/divyansh-vijay-17187b227/" target="_blank">Divyansh Vijay</a></p>
-  </footer>
+# Hi, I'm Divyansh Vijay 👋
+
+🎓 **B.Tech Computer Science & Engineering (2027)**  
+🏫 National Institute of Technology (NIT) Surat  
+💻 Full-Stack (MERN) & Machine Learning Developer  
+📍 India
+
+---
+
+## 🚀 About Me
+
+I enjoy building **scalable full-stack applications** and **data-driven machine learning systems** that solve real-world problems.
+
+I have experience working across the **complete software development lifecycle** — from designing backend APIs and ML models to building interactive dashboards and deploying production-ready systems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+- Java, Python, JavaScript, C++
+
+**Frontend**  
+- React.js, Tailwind CSS, HTML, CSS
+
+**Backend**  
+- Node.js, Express.js, REST APIs, JWT Authentication
+
+**Databases**  
+- MongoDB, MySQL
+
+**Machine Learning & Data**  
+- Scikit-learn, TensorFlow, Pandas, NumPy  
+- Data Visualization: Plotly.js, D3.js
+
+**Tools**  
+- Git & GitHub, Docker, CI/CD
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Smart Inventory Redistribution Network (SIRN)
+**Tech:** MERN, Python, Scikit-learn  
+- AI-based demand forecasting system built for **Walmart Sparkathon 2025**
+- Achieved **93% forecasting accuracy**
+- Optimized inter-store redistribution to reduce stockouts  
+🔗 https://github.com/Divyansh2992/WalmartSparkathon
+
+---
+
+### 🔹 Campus Security & Location Tracking System
+**Tech:** MERN, ML, LangChain  
+- Multimodal tracking using **Wi-Fi logs, CCTV & access data**
+- Random Forest model with **85% accuracy**
+- Explainable AI alerts for anomaly detection  
+🔗 https://github.com/Divyansh2992/Ethos
+
+---
+
+### 🔹 Full-Stack eCommerce Platform
+**Tech:** MERN, PayPal API, JWT  
+- Secure product catalog, cart & checkout
+- Integrated **PayPal payments** and role-based access
+- Scalable backend with MongoDB  
+🔗 https://github.com/Divyansh2992/ecommerce2
+
+---
+
+### 🔹 Climate Data Visualization Platform
+**Tech:** MERN, D3.js, Plotly.js  
+- Built during MNIT Jaipur Summer Internship
+- Interactive dashboards for **730+ Indian districts**
+- Simplified environmental data analysis  
+🔗 https://github.com/Divyansh2992/IndianClimateAnalysis
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Finalist – Walmart Sparkathon 2025** (Top 11 / 7000+ teams)
+- 🏆 **Best Poster Presentation Award** – MNIT Jaipur Internship Symposium 2025
+- 🏁 Finalist – Web Wonder Hackathon (SVNIT)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **divyanshvijay92@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/divyansh-vijay-17187b227
+
+---
+
+⭐ *Always open to impactful software and machine learning projects.*
