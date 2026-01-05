@@ -45,7 +45,7 @@ I have experience working across the **complete software development lifecycle**
 - AI-based demand forecasting system built for **Walmart Sparkathon 2025**
 - Achieved **93% forecasting accuracy**
 - Optimized inter-store redistribution to reduce stockouts  
-🔗 https://github.com/Divyansh2992/WalmartSparkathon
+🔗 https://github.com/Divyansh2992/Walmart_Sparkathon
 
 ---
 
