@@ -1,94 +1,116 @@
 # Hi, I'm Divyansh Vijay 👋
 
-🎓 **B.Tech Computer Science & Engineering (2027)**  
-🏫 National Institute of Technology (NIT) Surat  
-💻 Full-Stack (MERN) & Machine Learning Developer  
+🎓 **B.Tech Computer Science & Engineering (2027)**
+🏫 National Institute of Technology (NIT) Surat
+💻 Full-Stack Engineer · GenAI & Agentic AI Builder
 📍 India
 
 ---
 
 ## 🚀 About Me
 
-I enjoy building **scalable full-stack applications** and **data-driven machine learning systems** that solve real-world problems.
+I build **end-to-end AI systems and full-stack applications** — from LangChain-based RAG pipelines and Agentic AI workflows to production-ready MERN platforms.
 
-I have experience working across the **complete software development lifecycle** — from designing backend APIs and ML models to building interactive dashboards and deploying production-ready systems.
+I've shipped real products across the complete stack: designing REST APIs, building React frontends, writing Python ML pipelines, and integrating LLM APIs beyond basic wrappers. I care about clean code, ownership, and moving fast from idea to working product.
+
+Currently exploring **LangGraph, multi-agent systems, and vector databases**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-- Java, Python, JavaScript, C++
+**AI & GenAI**
+- LangChain, Gemini API, Groq API, OpenAI API
+- RAG, Embeddings, Prompt Engineering, Agentic AI
 
-**Frontend**  
-- React.js, Tailwind CSS, HTML, CSS
+**Languages**
+- Python, JavaScript, TypeScript, Java, C/C++
 
-**Backend**  
-- Node.js, Express.js, REST APIs, JWT Authentication
+**Frontend**
+- React.js, TypeScript, Tailwind CSS, D3.js, Plotly.js
 
-**Databases**  
-- MongoDB, MySQL
+**Backend**
+- Node.js, Express.js, REST APIs, JWT, RBAC
 
-**Machine Learning & Data**  
-- Scikit-learn, TensorFlow, Pandas, NumPy  
-- Data Visualization: Plotly.js, D3.js
+**ML & Data**
+- Scikit-learn, Pandas, NumPy, Feature Engineering
 
-**Tools**  
-- Git & GitHub, Docker, CI/CD
+**Databases**
+- MongoDB, MySQL, PostgreSQL
+
+**Tools**
+- Git, GitHub, Docker, Postman, Agile/SCRUM
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Smart Inventory Redistribution Network (SIRN)
-**Tech:** MERN, Python, Scikit-learn  
-- AI-based demand forecasting system built for **Walmart Sparkathon 2025**
-- Achieved **93% forecasting accuracy**
-- Optimized inter-store redistribution to reduce stockouts  
-🔗 https://github.com/Divyansh2992/Walmart_Sparkathon
+### 🤖 AI-Powered Code Editor
+**Tech:** LangChain · Groq API · RAG · React · TypeScript · Node.js · MongoDB
+
+- Agentic AI development environment with **LangChain-orchestrated LLM pipelines**
+- Implemented **RAG** with document chunking and embedding-based retrieval
+- Real-time streaming UI · Modular async backend · Multi-LLM provider support
+
+🔗 [GitHub](https://github.com/Divyansh2992/AI-Code-Reviewer)
 
 ---
 
-### 🔹 Campus Security & Location Tracking System
-**Tech:** MERN, ML, LangChain  
-- Multimodal tracking using **Wi-Fi logs, CCTV & access data**
-- Random Forest model with **85% accuracy**
-- Explainable AI alerts for anomaly detection  
-🔗 https://github.com/Divyansh2992/Ethos
+### 🛡️ Campus Security & Anomaly Detection System
+**Tech:** Python · Scikit-learn · React · Node.js · MongoDB · LangChain
+
+- Real-time anomaly detection over **7,000+ entity records** using ML pipelines
+- 10+ REST APIs for multi-source data ingestion (Wi-Fi, CCTV, access control)
+- Random Forest model with **85% accuracy** · Explainable AI alerts
+
+🔗 [GitHub](https://github.com/Divyansh2992/Ethos)
 
 ---
 
-### 🔹 Full-Stack eCommerce Platform
-**Tech:** MERN, PayPal API, JWT  
-- Secure product catalog, cart & checkout
-- Integrated **PayPal payments** and role-based access
-- Scalable backend with MongoDB  
-🔗 https://github.com/Divyansh2992/ecommerce2
+### 🛒 Full-Stack eCommerce Platform
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · JWT · PayPal API
+
+- Production-ready platform with JWT auth, RBAC, and PayPal payment integration
+- Clean REST API design · Scalable MongoDB schemas · 100+ products
+
+🔗 [GitHub](https://github.com/Divyansh2992/ecommerce_2)
 
 ---
 
-### 🔹 Climate Data Visualization Platform
-**Tech:** MERN, D3.js, Plotly.js  
-- Built during MNIT Jaipur Summer Internship
-- Interactive dashboards for **730+ Indian districts**
-- Simplified environmental data analysis  
-🔗 https://github.com/Divyansh2992/IndianClimateAnalysis
+### 📊 Smart Inventory Redistribution Network (Walmart Sparkathon)
+**Tech:** MERN · Python · Scikit-learn
+
+- AI demand forecasting system — **93% accuracy**, Top 11 / 7,000+ teams
+- Optimized inter-store redistribution to reduce stockouts
+
+🔗 [GitHub](https://github.com/Divyansh2992/Walmart_Sparkathon)
+
+---
+
+### 🌍 Climate Data Visualization Platform
+**Tech:** MERN · D3.js · Plotly.js · Python
+
+- Built during MNIT Jaipur internship — **730+ Indian districts** covered
+- 5+ interactive dashboards · Modular Python data pipelines
+
+🔗 [GitHub](https://github.com/Divyansh2992/IndianClimateAnalysis)
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 **Finalist – Walmart Sparkathon 2025** (Top 11 / 7000+ teams)
-- 🏆 **Best Poster Presentation Award** – MNIT Jaipur Internship Symposium 2025
-- 🏁 Finalist – Web Wonder Hackathon (SVNIT)
+- 🥇 **Top 11 / 7,000+ teams (Top 0.15%)** — Walmart Sparkathon 2025
+- 🏆 **Best Poster Presentation Award** — MNIT Jaipur Internship Symposium 2025
+- 🏁 **Finalist** — Web Wonder Hackathon (SVNIT) 2024
+- 💻 **500+ DSA problems** solved · LeetCode Rating: **1675**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- 📧 Email: **divyanshvijay92@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/divyansh-vijay-17187b227
+- 📧 divyanshvijay92@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/divyansh-vijay-17187b227)
 
 ---
 
-⭐ *Always open to impactful software and machine learning projects.*
+*Always open to impactful AI and full-stack engineering projects.*
